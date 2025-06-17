@@ -109,8 +109,8 @@
   <img src="https://streak-stats.demolab.com?user=ChocoJaYY&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/refs/heads/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/refs/heads/main/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/refs/heads/main/output/pacman-contribution-graph.svg">
   </picture>
   <br><br>
