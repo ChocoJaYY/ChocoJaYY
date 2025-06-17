@@ -106,8 +106,8 @@
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ChocoJaYY&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <br><br>
+  <!--<img src="https://streak-stats.demolab.com?user=ChocoJaYY&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <br><br> -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChocoJaYY/ChocoJaYY/output/pacman-contribution-graph.svg">
